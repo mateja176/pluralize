@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/mytee306/pluralize.svg?branch=master)](https://travis-ci.org/mytee306/pluralize)
+
+[![Coverage Status](https://coveralls.io/repos/github/mytee306/pluralize/badge.svg?branch=master)](https://coveralls.io/github/mytee306/pluralize?branch=master)
+
 # pluralize
 
 A Node.js module that returns the plural form of any noun
