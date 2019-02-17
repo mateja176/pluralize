@@ -1,5 +1,5 @@
 {
-  "name": "mypluralize",
+  "name": "@mytee/pluralize",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mytee306/mypluralize.git"
+    "url": "git+https://github.com/mytee306/pluralize.git"
   },
   "keywords": [],
   "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mytee306)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mytee306/mypluralize/issues"
+    "url": "https://github.com/mytee306/pluralize/issues"
   },
-  "homepage": "https://github.com/mytee306/mypluralize#readme",
+  "homepage": "https://github.com/mytee306/pluralize#readme",
   "devDependencies": {
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.6",

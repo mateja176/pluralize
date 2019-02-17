@@ -1,12 +1,12 @@
-# mypluralize
+# pluralize
 
 A Node.js module that returns the plural form of any noun
 
 ## Installation
 
 ```sh
-npm install mypluralize --save
-yarn add mypluralize
+npm install pluralize --save
+yarn add pluralize
 bower install pluralize --save
 ```
 
@@ -15,7 +15,7 @@ bower install pluralize --save
 ### Javascript
 
 ```javascript
-var pluralize = require("mypluralize")
+var pluralize = require("pluralize")
 var boys = pluralize.getPlural("Boy")
 ```
 
@@ -26,7 +26,7 @@ Output should be 'Boys'
 ### TypeScript
 
 ```typescript
-import { getPlural } from "mypluralize"
+import { getPlural } from "pluralize"
 console.log(getPlural("Goose"))
 ```
 
@@ -38,7 +38,7 @@ Output should be 'Geese'
 
 ```javascript
 define(function(require, exports, module) {
-  const pluralize = require("mypluralize")
+  const pluralize = require("pluralize")
 })
 ```
 
