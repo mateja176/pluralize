@@ -1,0 +1,23 @@
+{
+  "name": "mypluralize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mytee306/mypluralize.git"
+  },
+  "keywords": [],
+  "author": "Mateja Petrovic <mateja176@gmail.com> (https://github.com/mytee306)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mytee306/mypluralize/issues"
+  },
+  "homepage": "https://github.com/mytee306/mypluralize#readme",
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
+}
