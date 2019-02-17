@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/mytee306/mypluralize#readme",
   "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
     "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
   }
 }
